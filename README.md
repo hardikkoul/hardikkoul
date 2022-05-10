@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hardikkoul
 - 👀 I’m interested in ...anything which involves a logic
-- 🌱 I’m currently learning ... cyber secutiry
-- 💞️ I’m looking to collaborate on ... open source
+- 🌱 I’m currently learning ... game dedvelopment
+- 💞️ I’m looking to collaborate on ... indie game development
 - 📫 How to reach me ... mailTo : creatinggalaxy@gmail.com
 
 <!---
