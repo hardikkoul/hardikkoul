@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardikkoul
-- 👀 I’m interested in ...anything which involves Linux
+- 👀 I’m interested in ...anything which involves an Operating Syste, Kernal or C
 - 📫 How to reach me ... mailTo : creatinggalaxy@gmail.com
 
 <!---
