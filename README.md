@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardikkoul
-- 👀 I’m interested in ...anything which involves a logic
+- 👀 I’m interested in ...anything which involves Linux
 - 📫 How to reach me ... mailTo : creatinggalaxy@gmail.com
 
 <!---
